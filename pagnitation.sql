@@ -1,0 +1,8 @@
+SELECT *
+FROM library
+LIMIT 5;
+
+
+SELECT *
+FROM library
+LIMIT 5 OFFSET 5;
